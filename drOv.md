@@ -5,4 +5,4 @@ b)  Update your profile with your GitHub link.
 
 c) Setup your [username].md file on GitHub using the link
 
-Submission Method:  Repository link  called Assignments e.g  https://www.github.com/isiakaabd/assignments
+Submission Method:  Repository link  called Assignments e.g  https://github.com/imported82/Assignments
